@@ -53,12 +53,13 @@ const alexia = {
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,flexbox,cssgrid,nodejs,express,mysql,git,github,vscode,terminal,salesforce,agile,scrum,blockchain" alt="Tech Stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,flexbox,cssgrid,nodejs,express,mysql,git,github,vscode,terminal,salesforce,agile,scrum,blockchain,figma" alt="Tech Stack icons" />
 </div>
 
+
 ### 🌐 Idiomas
-- Español (Nativo)
-- Inglés (Profesional completo)
+- 🇪🇸 Español (Nativo)
+- 🇬🇧 Inglés (Profesional completo)
   
 
 ### 🚀 Proyectos Destacados
