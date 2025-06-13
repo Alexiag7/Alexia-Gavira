@@ -79,6 +79,10 @@ const alexia = {
   <img src="https://github-readme-stats.vercel.app/api?username=Alexiag7&show_icons=true&theme=tokyonight" width="410" style="height: 180px; object-fit: contain;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexiag7&theme=tokyonight" width="410" style="height: 180px; object-fit: contain;" />
 </div>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
   
   ---
   
