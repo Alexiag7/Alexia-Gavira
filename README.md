@@ -65,7 +65,7 @@ const alexia = {
 ### 🚀 Proyectos Destacados
 
 - 💈 [**Soti Barber Studio**](https://github.com/Alexiag7/Soti-Barber-Studio)  
-  Aplicación para la gestión de citas y clientes en una barbería (Próximamente).
+  Aplicación para la gestión de citas y clientes en una barbería.
 
 - 💻 [**Pulse**](https://github.com/Alexiag7/Prueba-Tecnica-Node-)  
   Plataforma para test técnico desarrollada con React y Node.js.
